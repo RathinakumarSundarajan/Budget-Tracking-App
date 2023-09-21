@@ -1,0 +1,9 @@
+/* .container-fluid{
+    background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1)0%, rgba(9,9,121,1) 35%, rgb(34, 203, 237) 120%);
+  } */
+
+  .background{
+    background: rgb(233,54,238);
+    background: linear-gradient(70deg, rgba(233,54,238,1) 0%, rgba(8,131,122,1) 48%, rgba(45,5,85,1) 99%, rgba(218,0,56,1) 180%);
+  }
